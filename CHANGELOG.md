@@ -8,6 +8,12 @@ All notable changes to the `python-domino` library will be documented in this fi
 
 ### Changed
 
+## [2.1.0]
+
+### Added
+
+### Changed
+
 ## [2.0.0]
 
 ### Added
