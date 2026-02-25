@@ -5,8 +5,11 @@ All notable changes to the `python-domino` library will be documented in this fi
 ## [Unreleased]
 
 ### Added
+* DOM-12345 Support hardware tier overrides in `job_start`
 
 ### Changed
+* DOM-12347 Fix pagination bug in `datasets_list`
+* DOM-12348 Loosen `requests` dependency to allow 2.x
 
 ## [2.1.0]
 
