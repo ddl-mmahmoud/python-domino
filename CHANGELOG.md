@@ -5,6 +5,12 @@ All notable changes to the `python-domino` library will be documented in this fi
 ## [Unreleased]
 
 ### Added
+
+### Changed
+
+## [2.2.0]
+
+### Added
 * DOM-12345 Support hardware tier overrides in `job_start`
 
 ### Changed
